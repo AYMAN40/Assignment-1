@@ -1,0 +1,13 @@
+{
+  "name": "assignment-1",
+  "version": "0.0.0",
+  "description": "Assignment 1",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2"
+  }
+}
